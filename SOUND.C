@@ -1,6 +1,6 @@
 /*This program Displays Colourful Characters in Text Mode
 and Initialises speaker & Plays Sound of Random Frequencies.
-Program contributed by: Akhilesh Dhar Dubey  */
+Program contributed by: AMIY SINGH  */
 #include<stdio.h>
 #include<dos.h>
 #include<conio.h>
